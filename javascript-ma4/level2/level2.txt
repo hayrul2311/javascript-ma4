@@ -1,0 +1,8 @@
+1. Dom is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.
+2.  addEventListener(), createElement(), setAttribute().
+3. Asynchronous means that things can happen independently of the main program flow. Like on multiprocessor computers that can run more than 1 program.
+4. The Sources tab allows you to set breakpoints and evaluate expressions in Javascript whether that Javascript was loaded from a separate file or was part of the page. It helps alot for debugging and let you see whats going on with javascript code in action. It has 7 headers that can be expanded. Watch Expressions, Call Stack, Scope Variables, Breakpoints, DOM Breakpoints, XHR Breakpoints, and Event Listener Breakpoints. You can play/stop execution of your code to see it in action.
+5. A promise represents the eventual result of an asynchronous operation. It is a placeholder into which the successful result value or reason for failure will materialize.
+6. APIs are constructs made available in programming languages to allow developers to create complex functionality more easily. They abstract more complex code away from you, providing some easier syntax to use in its place.
+7. JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page. Like clicking a button, closing a window, pressing a key. All are events.
+8. relates to the order in which event handlers are called when one element is nested inside a second element, and both elements have registered a listener for the same event.
